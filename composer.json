@@ -1,0 +1,21 @@
+{
+    "name": "yurineves92/datalayer",
+    "description": "Abstração de Banco de Dados com Data Layer",
+    "authors": [
+        {
+            "name": "Yuri Neves",
+            "email": "yurineves92@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "coffeecode/datalayer": "1.1.2"
+    }
+}
