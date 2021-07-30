@@ -1,6 +1,6 @@
-# Uso de biblioteca de terceiros
+# Use of third-party library
 
-Utilização da biblioteca Data Layer para abstração do banco de dados
+Using the Data Layer library for database abstraction.
 
 ## CRUD de Users
 
